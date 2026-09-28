@@ -1,0 +1,7 @@
+# Ignore everything in the directory
+*
+
+# Except for the Streamlit app and git configuration
+!3_review_app.py
+!.gitignore
+!requirements.txt
